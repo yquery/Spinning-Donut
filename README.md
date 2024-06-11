@@ -1,6 +1,4 @@
 ```java
-package org.max;
-
 import java.util.Arrays;
 
 public class Main {
